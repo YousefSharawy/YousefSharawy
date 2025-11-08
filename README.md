@@ -13,7 +13,7 @@ I'm **Yousef Sharawy**, a **Flutter developer** passionate about building high-q
 - 🔥 **Firebase** (Auth, Firestore, Cloud Functions, Notifications, etc.)
 - 🐡 **Supabase** (Auth, Realtime, Postgres)
 - 🌐 **REST APIs**
-- 🔧 **State Management**: Bloc, Riverpod, Provider
+- 🔧 **State Management**: Bloc
 - 📈 Familiar with **Git**, GitHub Actions, and branching strategies
 - ✨ Always learning & experimenting with new technologies
 
