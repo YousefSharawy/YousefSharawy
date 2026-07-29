@@ -79,12 +79,12 @@ class YousefSharawy extends FlutterDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YousefSharawy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=02569B&icon_color=3ECF8E" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSharawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=02569B&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YousefSharawy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=02569B&icon_color=3ECF8E&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSharawy&layout=compact&theme=tokyonight&hide_border=true&title_color=02569B&langs_count=8&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YousefSharawy&theme=tokyonight&hide_border=true&background=00000000&stroke=02569B&ring=3ECF8E&fire=FFCA28&currStreakLabel=02569B" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YousefSharawy&theme=tokyonight&hide_border=true&background=0d1117&stroke=02569B&ring=3ECF8E&fire=FFCA28&currStreakLabel=02569B" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -102,7 +102,7 @@ class YousefSharawy extends FlutterDeveloper {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefSharawy&theme=tokyo-night&bg_color=00000000&hide_border=true&line=02569B&point=3ECF8E&area=true&area_color=02569B" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefSharawy&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=02569B&point=3ECF8E&area=true&area_color=02569B" alt="Activity graph" />
 </div>
 
 <br/>
@@ -111,7 +111,11 @@ class YousefSharawy extends FlutterDeveloper {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YousefSharawy/YousefSharawy/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefSharawy/YousefSharawy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefSharawy/YousefSharawy/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YousefSharawy/YousefSharawy/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
